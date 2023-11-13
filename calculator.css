@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(1, 1, 1);
+}
+
+.button{
+  border:none;
+  color: rgb(255, 255, 255);
+  background-color: rgb(60, 58, 58);
+  border-radius: 25px;
+  height: 50px;
+  width: 50px;
+  font-size: 20px;
+  font-family: Arial;
+}
+
+.button2{
+  background-color: orange;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  height: 50px;
+  width: 50px;
+  font-size: 20px;
+  font-family: Arial;
+}
+
+.button3 {
+  border:none;
+  color: rgb(254, 254, 254);
+  background-color: rgb(60, 58, 58);
+  border-radius: 25px;
+  height: 50px;
+  width: 50px;
+  font-size:12px;
+  font-family: Arial;
+}
+
+.output {
+  color: white;
+  font-size: 50px;
+  font-family: Arial;
+  margin-bottom: -5px;
+}
